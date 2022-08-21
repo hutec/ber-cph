@@ -26,7 +26,7 @@ export default function Post({ post, morePosts, preview }) {
           <>
             <article className="mb-32">
               <Head>
-                <title>Espresso Divide | {post.title}</title>
+                <title>{post.title}</title>
               </Head>
               <PostHeader
                 title={post.title}
