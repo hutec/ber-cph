@@ -12,6 +12,7 @@ We left Oranienburg at 8:30 a.m. and were lucky to cycle the first 40km+ of the 
 ## About Toilet Paper and Nazi History
 
 Finding public toilets in Germany is one of the greatest challenges while bikepacking. We were unlucky this time and peed open air. A sustainability discussion inflamed afterwards because women are unwilling to transport their used toilet tissue and usually just throw it in nature instead. In my opinion, I just must be given a clean, working and free toilet. I will probably need to find a proper solution for this problem on future bike rides. 
+
 We soon accidently faced the Nazi concentration camp Ravensbrück. Being reminded of this exorbitant crimes of German history always leaves me totally shaken. The contrast could not have been bigger, since only a few meters later the cutest café of our whole trip appeared out of nowhere (https://www.coffee-and-travel.com/). We had coffee, banana bread and a brownie and pedaled the remaining kilometers of stage two. 
 
 ## North German Cobblestone Love
