@@ -21,4 +21,4 @@ In Großmenow—we interpreted the name as “big oh no”—we crossed the bord
 
 ## The Campsite
 
-No mattress was harmed and we arrived at our campsite in the evening. This very special campsite was actually not made for bikepackers but for travelers by canoe. We had a weird neighbor informing us about trash panda visits during the night. Thanks to his warnings, we stored our remaining food in the sauna locker. We do not certainly know whether we were visited by a trash panda but he assured that there was one around our tent at 5 a.m.
+No mattress was harmed and we arrived at our campsite in the evening. This very special campsite was actually not made for bikepackers but for travelers by canoe. We had a weird neighbor informing us about trash panda visits during the night. Thanks to his warnings, we stored our remaining food in the sauna locker. We do not certainly know whether we were visited by a trash panda but he assured us that there was one around our tent at 5 a.m.
