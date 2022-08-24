@@ -10,6 +10,8 @@ Robin’s birthday today—woop woop—started with a wet tent, yay! Not due to 
 
 ![cows and cobblestone]($BASEPATH/assets/blog/images/day3_cows-and-cobblestone.jpg)
 
+![random cobblestone]($BASEPATH/assets/blog/images/day3_random-cobblestone.jpg)
+
 ## Waren/Müritz
 For lunch, we had fries in Waren/Müritz, which manifested itself as the Lake of Constance of Northern Germany. It is a touristic, but picturesque area and definitely a worth a visit. After half-fried fries, we continued to the next Edeka, had a mango lassi and dried the tent in the hot sun. Robin’s seatpost problem reached its climax today and we had to face a little mental overwhelm. He bought some adhesive tape to stick it to his seatpost inside the frame—to be continued. If people had to deal with the same amount and intensity of incidents every day like they have to while bikepacking, they would probably soon suffer a burnout. 
 
