@@ -1,6 +1,6 @@
 ---
 title: "Day 1"
-excerpt: ""
+excerpt: "Berlin to Oranienburg"
 track: "/assets/blog/track-recordings/BER_CPH_Tag_1.gpx"
 date: "2022-08-08"
 ---
