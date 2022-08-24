@@ -11,6 +11,8 @@ We left Oranienburg at 8:30 a.m. and were lucky to cycle the first 40km+ of the 
 
 ![flamingo]($BASEPATH/assets/blog/images/day2_flamingo.jpg)
 
+![bikes]($BASEPATH/assets/blog/images/day2_bikes.jpg)
+
 ## About Toilet Paper and Nazi History
 
 Finding public toilets in Germany is one of the greatest challenges while bikepacking. We were unlucky this time and peed open air. A sustainability discussion inflamed afterwards because women are unwilling to transport their used toilet tissue and usually just throw it in nature instead. In my opinion, I just must be given a clean, working and free toilet. I will probably need to find a proper solution for this problem on future bike rides. 
