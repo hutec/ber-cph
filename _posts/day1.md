@@ -13,9 +13,9 @@ Our adventure began on a random Sunday evening. After only a few hours of sleep,
 
 ## Actually *with* Worries
 
-![nature]($BASEPATH/assets/blog/images/day1_nature.jpg)
-
 We dressed bicycle-appropriately in the train station toilet and started our journey straight on what Germans call “bike lanes”—after having experienced Danish bike lanes I can say they can’t be serious—of course with shards on it. The first highlight was Wannsee, after which a famous song by *Die Ärzte* is named. I was very delighted to finally see this ominous lake that has shouted at me through every radio since I was a child. After a short cereal bar refreshment and pee break, we kept going through beautiful Potsdam. Both of us had never been here before, thus we were overwhelmed by how stunning this place was. Our path lead over tarred roads underneath large trees along endless amounts of small rivers and lakes. The environment was sadly blurred by Robin’s slipping seatpost. Having mechanicals is always very shitty and distracting but sitting 10 centimeters too low for about 900 kilometers is not a great prospect. I tried to keep quiet and just let him deal with the struggles but the problem actually did get worse the next days. 
+
+![nature]($BASEPATH/assets/blog/images/day1_nature.jpg)
 
 ## Introvert Life
 
