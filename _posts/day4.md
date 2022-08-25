@@ -13,7 +13,7 @@ Exceptions prove the rule: In Güstrow, we met an inspiring young woman. She was
 
 ![infrastructure]($BASEPATH/assets/blog/images/day4_infrastructure.jpg)
 
-Except for the kiosk’s worker, Güstrow is a wonderful city to visit. Almost all old facades remained and there are zero tourists. The city even has a castle, which was unfortunately wrapped in fabric because of building work. 
+Adding up to the kiosk worker, Güstrow is a wonderful city to visit. Almost all old facades remained and there are zero tourists. The city even has a castle, which was unfortunately wrapped in fabric because of building work. 
 
 ![Güstrow]($BASEPATH/assets/blog/images/day4_Güstrow.jpg)
 
