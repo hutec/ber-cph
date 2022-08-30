@@ -15,6 +15,8 @@ date: "2022-08-12"
 
 ![Camp Spot]($BASEPATH/assets/blog/images/day5.2_camp-spot.jpg)
 
+![beer and strawberries]($BASEPATH/assets/blog/images/day5.2_beer-and-strawberries.jpg)
+
 ![View]($BASEPATH/assets/blog/images/day5.2_aussicht.jpg)
 
 ![Bridge]($BASEPATH/assets/blog/images/day5.2_bridge.jpg)
