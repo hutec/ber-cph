@@ -23,17 +23,17 @@ The route did not only navigate along separated two-direction bike lanes. When c
 
 ![Cafe]($BASEPATH/assets/blog/images/day5.2_cafe.jpg)
 
-The very cute second ferry of the day connected Stubbekøbing and the island Bogø. There, we accidently found an Italian restaurant selling pizza and coffee. It turned out the best restaurant of the entire trip; even the pizza looked similar to Robin’s. The many kilometers on flat tarmac along deserted streets and little country cottages mostly provided a great sea view.
+The very cute second ferry of the day connected Stubbekøbing and the island Bogø. On Bogø, we accidently found an Italian restaurant selling pizza and coffee. It turned out the best restaurant of the entire trip; even the pizza looked similar to Robin’s. The many kilometers on flat tarmac along deserted streets and little country cottages mostly provided a great sea view.
 
 ## Mønbroen
 
-We finally reached our campsite on the island Møn (famous for its chalk cliffs). It was the kind of location that feeds the soul: The campsite literally was a long but narrow peninsula. Lots of bushes and trees separated the pitches from one another and there was sea view for everyone. We put up the tent with its exit in direction of sunrise and headed over a huge bridge to another small island to fuel our bodies with chips. The chips shop was very busy and when we tried to order our food, the owner told us to come back half an hour later again, since she was too stressed at the moment and needed some time to calm down—of course she didn’t forget her friendly Danish manner. 
+We finally reached our campsite on the island Møn (famous for its chalk cliffs). It was the kind of location that feeds the soul: The campsite literally was a long but narrow peninsula. Lots of bushes and trees separated the pitches from one another and there was sea view for everyone. We put up the tent with its exit in direction of sunrise and headed over a huge bridge to another small island to fuel our bodies with chips. The chips shop was very busy and when we tried to order our food, the owner told us to come back half an hour later again, since she was too stressed at the moment and needed some time to calm down—of course she made use of her Danish friendliness. 
 
 ![Camp Spot]($BASEPATH/assets/blog/images/day5.2_camp-spot.jpg)
 
 ![beer and strawberries]($BASEPATH/assets/blog/images/day5.2_beer-and-strawberries.jpg)
 
-So we had no other option to obey her and went for the next DagliBrugsen to bridge the time with Carlsberg beer and strawberries. The spot was so gorgeous that we had a hard time deciding where to have the little pre-snack. We sat on a wooden raft in the harbor and made some core memories until the half over was over. Robin bravely tried to order our food again—it worked out this time. After half of the bowl, Robin wildly gestured and hit his remaining chips from the table. It all fell to the ground :/ but he ate it regardless. Back at the campsite, Robin had a quick swim in the sundowning water, after which we had a warm shower and finally bedded ourselves on our rustling mattresses. 
+So we had no other option to obey her and went for the next DagliBrugsen to bridge the time with Carlsberg beer and strawberries. The spot was so gorgeous that we had a hard time deciding where to have the little pre-snack. We sat on a wooden raft in the harbor and made some core memories until the thirty minutes were over. Robin bravely tried to order our food again—it worked out this time. After half of the bowl, Robin wildly gestured and hit his remaining chips from the table. It all fell to the ground :/ but he ate it regardless. Back at the campsite, Robin had a quick swim in the sundowning water, after which we had a warm shower and finally bedded ourselves on our rustling mattresses. 
 
 ![View]($BASEPATH/assets/blog/images/day5.2_aussicht.jpg)
 
