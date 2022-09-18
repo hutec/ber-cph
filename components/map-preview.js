@@ -16,15 +16,12 @@ const Route = ({ track, updateMapBounds = true, color = "#000000" }) => {
   useEffect(() => {
     const url = path.join(router.basePath, track);
 
-    // Replace .gpx with .geojson
     const geojsonFile = url.replace(".gpx", ".geojson");
 
-    // read geojson file
     fetch(geojsonFile)
       .then((response) => response.json())
       .then((data) => {
         if (updateMapBounds) {
-          // Update map bounds
           map.fitBounds(data.bounds, { padding: [50, 50] });
         }
         setGeojson(data);
