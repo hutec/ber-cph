@@ -5,12 +5,9 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import path from "path";
 
-// Generate random hex color
-const randomColorGenerator = () => {
-  return "#" + Math.floor(Math.random() * 16777215).toString(16);
-};
+import chroma from "chroma-js";
 
-const Route = ({ track, updateMapBounds, useRandomColor }) => {
+const Route = ({ track, updateMapBounds = true, color = "#000000" }) => {
   // See https://stackoverflow.com/questions/68758035/how-to-render-geojson-polygon-in-react-leaflet-mapcontainer
   const [geojson, setGeojson] = useState(0);
   const map = useMap();
@@ -35,11 +32,7 @@ const Route = ({ track, updateMapBounds, useRandomColor }) => {
   }, []);
 
   if (geojson) {
-    if (useRandomColor) {
-      return <GeoJSON data={geojson} color={randomColorGenerator()} />;
-    } else {
-      return <GeoJSON data={geojson} />;
-    }
+    return <GeoJSON data={geojson} color={color} />;
   } else {
     return null;
   }
@@ -47,7 +40,11 @@ const Route = ({ track, updateMapBounds, useRandomColor }) => {
 
 export function MapOverview({ posts, bounds }) {
   const tracks = posts.map((post) => post.track);
-  console.log("Bounds are", bounds);
+
+  const colors = chroma.scale(["hotpink", "#2A4858"]).mode("lch").colors(3);
+  const tracksAndColors = tracks.map((track, index) => {
+    return { track, color: colors[index % colors.length] };
+  });
 
   return (
     <div>
@@ -62,12 +59,12 @@ export function MapOverview({ posts, bounds }) {
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
-          {tracks.map((track) => (
+          {tracksAndColors.map((track) => (
             <Route
-              key={track}
-              track={track}
+              key={track.track}
+              track={track.track}
               updateMapBounds={false}
-              useRandomColor={true}
+              color={track.color}
             />
           ))}
         </MapContainer>
