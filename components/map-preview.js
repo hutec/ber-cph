@@ -38,11 +38,13 @@ const Route = ({
   if (geojson) {
     return (
       <GeoJSON data={geojson} color={color}>
-        <Popup>
-          <Link href={`/posts/${slug}`}>
-            <a className="hover:underline">{title}</a>
-          </Link>
-        </Popup>
+        {!!slug && !!title && (
+          <Popup>
+            <Link href={`/posts/${slug}`}>
+              <a className="hover:underline">{title}</a>
+            </Link>
+          </Popup>
+        )}
       </GeoJSON>
     );
   } else {
