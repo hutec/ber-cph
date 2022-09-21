@@ -1,13 +1,20 @@
 import { MapContainer } from "react-leaflet/MapContainer";
 import { TileLayer } from "react-leaflet/TileLayer";
-import { GeoJSON, useMap } from "react-leaflet";
+import { Popup, GeoJSON, useMap } from "react-leaflet";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import path from "path";
+import Link from "next/link";
 
 import chroma from "chroma-js";
 
-const Route = ({ track, updateMapBounds = true, color = "#000000" }) => {
+const Route = ({
+  track,
+  updateMapBounds = true,
+  color = "#000000",
+  title = null,
+  slug = null,
+}) => {
   // See https://stackoverflow.com/questions/68758035/how-to-render-geojson-polygon-in-react-leaflet-mapcontainer
   const [geojson, setGeojson] = useState(0);
   const map = useMap();
@@ -29,18 +36,25 @@ const Route = ({ track, updateMapBounds = true, color = "#000000" }) => {
   }, []);
 
   if (geojson) {
-    return <GeoJSON data={geojson} color={color} />;
+    return (
+      <GeoJSON data={geojson} color={color}>
+        <Popup>
+          <Link href={`/posts/${slug}`}>
+            <a className="hover:underline">{title}</a>
+          </Link>
+        </Popup>
+      </GeoJSON>
+    );
   } else {
     return null;
   }
 };
 
 export function MapOverview({ posts, bounds }) {
-  const tracks = posts.map((post) => post.track);
-
   const colors = chroma.scale(["hotpink", "#2A4858"]).mode("lch").colors(3);
-  const tracksAndColors = tracks.map((track, index) => {
-    return { track, color: colors[index % colors.length] };
+
+  const postAndColors = posts.map((post, index) => {
+    return { post, color: colors[index % colors.length] };
   });
 
   return (
@@ -56,12 +70,14 @@ export function MapOverview({ posts, bounds }) {
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
-          {tracksAndColors.map((track) => (
+          {postAndColors.map((post) => (
             <Route
-              key={track.track}
-              track={track.track}
+              key={post.post.slug}
+              track={post.post.track}
               updateMapBounds={false}
-              color={track.color}
+              color={post.color}
+              slug={post.post.slug}
+              title={post.post.title}
             />
           ))}
         </MapContainer>
