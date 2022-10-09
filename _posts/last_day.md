@@ -41,6 +41,6 @@ I left Denmark this week with tons of memories in my heart and still need time t
 
 Bikepacking is not always fun. Sometimes one’s body does not engage in the trip as much as the heart—for me it’s knee pain, hand pain and saddle sores. How enjoyable being outside 24/7 is highly depends on the weather conditions. And in most countries, bike infrastructure is just really bad or not existent at all. But Denmark is easing most of these adversities. 
 
-It makes us so sad that we need to fight for the bare Danish minimum here in Germany every day. It makes us speechless that we are obviously doing the right thing for the environment, our own health and the health of everyone else on this planet and still have to endure hostility, verbal abuse, lack of understanding, arguing and insults. We won’t ever stop advocating against all odds, because we have a strong vision and neighbouring countries that show how precious it could be—if we all allow it. 
+It is absolutely sickening that we need to fight for the bare Danish minimum here in Germany every day. It makes us speechless that we are obviously doing the right thing for the environment, our own health and the health of everyone else on this planet and still have to endure hostility, verbal abuse, lack of understanding, arguing and insults. We won’t ever stop advocating cycling against all odds, because we have a strong vision and neighbouring countries that show how precious it could be—if we all allow it. 
 
 Vi elsker dig Danmark.
