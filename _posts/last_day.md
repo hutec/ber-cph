@@ -19,7 +19,7 @@ A quick shower later, we made our way to the city center again to buy sunglasses
 
 ## Waving Farewell
 
-We woke up early for our last stage, since we planned to cycle more than 160km. But before really tackling the route, we had to stop at *St. Peders Bageri*—yes, we deliberately decided beforehand staying in the city until Wednesday morning to not miss the weekly offer *Onsdagsneglen* offer. As the name suggests, this cinnamon roll is only to be bought on Wednesdays. One is about 28DKK and they are considered the best cinnamon rolls in whole Denmark. I can warmly recommend biting in a huge pile of yeast dough, icing, cinnamon and cardamom. We casually bought 4 rolls to get us through this long day of cycling.
+We woke up early for our last stage, since we planned to cycle more than 160km. But before really tackling the route, we had to stop at *St. Peders Bageri*—yes, we deliberately decided beforehand staying in the city until Wednesday morning to not miss the weekly *Onsdagsneglen* offer. As the name suggests, this cinnamon roll is only to be bought on Wednesdays. One is about 28DKK and they are considered the best cinnamon rolls in whole Denmark. I can warmly recommend biting in a huge pile of yeast dough, icing, cinnamon and cardamom. We casually bought 4 rolls to get us through this long day of cycling.
 
 ![cinnamon role]($BASEPATH/assets/blog/images/day8_kanelsnegel.jpg) 
 
