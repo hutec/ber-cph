@@ -10,7 +10,7 @@ After our arrival, we spent two entire days in Copenhagen. During my Erasmus sem
 
 ## Sightcycling 1
 
-The first stroll through the city led us along the *Cykelslangen* to introduce Robin to *Københavns Universitetet*, where I studied at. Once on *Amagerbrø*—an island and borough of the Danish capital—we cycled to *Amager Strandpark* and had our favourite Cocio drink, wraps and Gifflar near the beach. We had cheese fries for lunch at *Reffen* (definitely recommend both!), saw *Noma*’s gardens (famous as the world’s best restaurant), lay under the huge roof of *Operaen*, cycled through crowded *Nyhavn* to *Christiania* to see its famous cargo bike manufacturer *Christina bikes*. Tired and back at our strange host’s flat – he was finally gone to Turkey—we had pizza on our balcony. 
+The first stroll through the city led us along the *Cykelslangen* to introduce Robin to *Københavns Universitetet*, where I studied at. Once on *Amagerbrø*—an island and borough of the Danish capital—we cycled to *Amager Strandpark* and had our favourite Cocio drink, wraps and Gifflar near the beach. We had cheese fries for lunch at *Reffen* (definitely recommend both!), saw *Noma*’s gardens (famous as the world’s best restaurant), lay under the huge roof of *Operaen*, cycled through crowded *Nyhavn* to *Christiania* to see its famous cargo bike manufacturer *Christina bikes*. Tired and back at our strange host’s flat—he was finally gone to Turkey—we had pizza on our balcony. 
 
 ## Sightcycling 2
 
