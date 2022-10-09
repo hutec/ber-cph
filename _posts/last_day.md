@@ -6,7 +6,7 @@ date: "2022-08-17"
 ---
 
 ## Danish Summer
-After our arrival, we spent two entire days in Copenhagen. During my Erasmus semester in 2020 and my visit last year, I anticipated typical Danish weather: rain daily, strong winds and freezing temperatures (I carried my winter jacket in August). This time everything was different. My experiences from last visits naturally influenced my off-bike packing list and I thus only took long jeans and warm clothing with me. I could not have been more wrong. Copenhagen provided us with up to 30 degrees, sunburns and and lots of sweat every day. I even had to shop sunglasses to see properly while cycling. 
+After our arrival, we spent two entire days in Copenhagen. Due to my Erasmus semester in 2020 and my visit last year, I anticipated typical Danish weather: rain daily, strong winds and freezing temperatures (I carried my winter jacket in August). This time everything was different. My experiences from last visits naturally influenced my off-bike packing list and I thus only took long jeans and warm clothing with me. I could not have been more wrong. Copenhagen provided us with up to 30 degrees, sunburns and and lots of sweat every day. I even had to shop sunglasses to see properly while cycling. 
 
 ## Sightcycling 1
 
