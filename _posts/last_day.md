@@ -21,17 +21,27 @@ A quick shower later, we made our way to the city center again to buy sunglasses
 
 We woke up early for our last stage, since we planned to cycle more than 160km. But before really tackling the route, we had to stop at *St. Peders Bageri*—yes, we deliberately decided beforehand staying in the city until Wednesday morning to not miss the weekly *Onsdagsneglen* offer. As the name suggests, this cinnamon roll is only to be bought on Wednesdays. One is about 28DKK and they are considered the best cinnamon rolls in whole Denmark. I can warmly recommend biting in a huge pile of yeast dough, icing, cinnamon and cardamom. We casually bought 4 rolls to get us through this long day of cycling.
 
-![cinnamon role]($BASEPATH/assets/blog/images/day8_kanelsnegel.jpg) 
+![cinnamon roll]($BASEPATH/assets/blog/images/day8_kanelsnegel.jpg) 
 
-
+We cycled almost every meter on bike lanes. I had cycled the distance three times already but this one was the easiest 160km of my whole life. Due to the length of today’s stage, we could not make any detours along the sea side and tried to cycle the linear distance between Copenhagen and Gedser, where we wanted to catch the ferry back to Germany the next day. Several kilometres after Copenhagen’s suburbs, we eyewitnessed a female cyclist lying on the street/pavement, pressing dressing material in her bleeding face. She seemed to have had an accident and the scene looked terrible. Luckily, there already were some people gathering around her to help and navigate the traffic around the area. They also signalled us to just ride ahead, but this sight was to bother me months after nevertheless. I imploringly hope that she is well by now and got off lightly. I could not tell whether there was another traffic participant involved or not; it may also have been self-imposed. However, it still often reminds me of my own vulnerability that I seem to ignore sometimes. 
 
 ![castle]($BASEPATH/assets/blog/images/day8_castle.jpg)
 
+Our way led along a small castle which looked alarmingly similar to Copenhagen’s *Rosenborg Slot*. Wikipedia taught us that this one nowadays belongs to a noble family which actually lives there—hold my champagne. 
+
 ![long bridge]($BASEPATH/assets/blog/images/day8_long-bridge.jpg)
+
+Next up was a loooooong bridge. It covers more than three kilometres between two of the many Danish islands. I struggled to trust this old construction, since a few meters on its left already started the building of a new bridge to replace this decayed one. Swimming was not an option but pedalling on regardless certainly was. 
+
+A few kilometres ahead our night camp, a random car left a small house’s driveway in the middle of the Danish countryside. The car driver suddenly started beeping his horn at us several times—we still do not know why exactly but I ascribed this behaviour to Jonas Vingegaard’s victory of this year’s Tour de France. Since then, the Danes are even more cycle-crazy. 
 
 ![shelter and sea]($BASEPATH/assets/blog/images/day8_shelter-and-sea.jpg)
 
+Gedser is a very tiny town and there literally was only one option to get an earned post-ride pizza. We made it just in time and celebrated the end of our cycling adventure. 
+
 ![shealter and bikes]($BASEPATH/assets/blog/images/day8_shelter-and-bikes.jpg)
+
+However, the greatest adventure of the whole trip was about to take place this very last night. We decided to spend it not in our tent but in one of Denmark’s many shelters. We unrolled our air mattresses and sleeping bags and Robin went for a swim in the sea under the setting sun. This picturesque scene was to be the calm before the literal storm… The heat of the last days must transform to heavy thunderstorms at some point—well, this point was exactly the night we decided to sleep in a wooden shelter near the coast. This prospect alone was terrifying me, but it got even worse: For some reason, there were thousands of mosquitoes present. As long as one stood still for about five seconds, it started buzzing and itching everywhere. We were forced to wear everything we brought and decided to put up the inner tent to at least have a small safe room. Sadly, the tent was too high to put it inside the shelter, why we then decided to leave the shelter at once and sleep in the tent eventually. After having murdered tons of mosquitos which made it inside the tent (how!?) against all safety precautions, we went to bed. However, it was impossible to think of sleep. Gusty winds shook our tent in all directions and thunderstorms came audibly closer. For safety reasons we had to move back in the shelter again. There, the third horror approached from everywhere: spiders. Big, hairy, black spiders. I just prayed the night to finally pass while lying sleepless next to spiders in a shelter underneath pouring rain.
 
 ![lightning]($BASEPATH/assets/blog/images/day8_lightning.jpg)
 
